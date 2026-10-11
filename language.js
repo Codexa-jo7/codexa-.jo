@@ -1,5 +1,6 @@
 'use strict';
 const english = {
+'احكي معنا واتساب':'Chat on WhatsApp','تابعنا على إنستغرام':'Follow us on Instagram',
 'CODEXA | فكرتك، بُعد رقمي جديد':'CODEXA | A new dimension for your ideas',
 'انتقل للمحتوى':'Skip to content','أعمالنا':'Our work','خدماتنا':'Services','عن كوديكسا':'About us','خلّينا نحكي':"Let’s talk",
 'من الأردن، لأفكار أبعد':'From Jordan. Beyond boundaries.','شغلك مميّز.':'You stand out.','خلّي موقعك':'Your website','يحكي قصّته.':'should too.',
